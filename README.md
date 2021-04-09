@@ -1,2 +1,2 @@
 # Platzi-GitHub
-Connecting to the terminal
+Connecting to the terminal (Git)
